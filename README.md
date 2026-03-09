@@ -2,6 +2,7 @@
 
 ## **📘 Descripción general**
 Este proyecto consiste en desarrollar un programa **modular** en Python que implemente los algoritmos de ordenamiento vistos en clase:
+- Bubble Sort
 - Insertion Sort  
 - Selection Sort  
 - Shell Sort  
