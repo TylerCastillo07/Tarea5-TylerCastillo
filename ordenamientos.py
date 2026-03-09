@@ -9,12 +9,21 @@
 #   - Regresar la lista ordenada
 #
 # Algoritmos a implementar:
-#   1. Insertion Sort
-#   2. Selection Sort
-#   3. Shell Sort
-#   4. Merge Sort
-#   5. QuickSort (solo pivote central)
+#   1. Bubble Sort
+#   2. Insertion Sort
+#   3. Selection Sort
+#   4. Shell Sort
+#   5. Merge Sort
+#   6. QuickSort (solo pivote central)
 # ---------------------------------------------------------
+
+def bubble_sort(lista, ascendente=True):
+    """
+    Implementa el algoritmo Bubble Sort.
+    Ordena la lista in-place.
+    """
+    pass
+
 
 
 def insertion_sort(lista, ascendente=True):
