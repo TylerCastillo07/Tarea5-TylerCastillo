@@ -16,6 +16,7 @@
 #   5. Merge Sort
 #   6. QuickSort (solo pivote central)
 # ---------------------------------------------------------
+#Nombre del alumno: Tyler Gabriel Castillo Lozano 2163447 x60
 
 def bubble_sort(lista, ascendente=True):
     """
